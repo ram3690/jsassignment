@@ -1,0 +1,23 @@
+h1{
+    background-color: aqua;
+    text-align: center;
+}
+.showside{
+    text-align: right;
+    background-color: cadetblue;
+    position: relative;
+    top:0;
+    right:0;
+}
+.passinfo{
+    font-weight: bold;
+}
+.emailinfo{
+    font-weight: bold;
+}
+.yourself{
+    font-weight: bold;
+}
+.interests{
+    font-weight: bold;
+}
